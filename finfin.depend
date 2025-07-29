@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1753646149 source:c:\users\rodrigo\desktop\fin fin\finfin\main.cpp
+	"funciones.h"
+	<iostream>
+
+1753652813 c:\users\rodrigo\desktop\fin fin\finfin\funciones.h
+	<iostream>
+	<time.h>
+	<ctime>
+	"rlutil.h"
+
+1753810287 source:c:\users\rodrigo\desktop\fin fin\finfin\funciones.cpp
+	"funciones.h"
+
+1753475499 c:\users\rodrigo\desktop\fin fin\finfin\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
