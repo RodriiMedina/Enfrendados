@@ -19,10 +19,10 @@ Transferencia dinámica de dados entre jugadores.
 Finalización por puntos o victoria automática.
 
 Menú interactivo:
-JUGAR.
-ESTADÍSTICAS.
-CRÉDITOS.
-SALIR.
+JUGAR,
+ ESTADÍSTICAS,
+ CRÉDITOS,
+ SALIR.
 
 🛠️ Tecnologías utilizadas
 Lenguaje: C++.
