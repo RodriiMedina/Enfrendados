@@ -12,20 +12,20 @@ Si se queda sin dados: gana automáticamente con 10.000 puntos.
 Si falla:
 Recibe un dado de castigo (si el rival tiene más de uno).
 
-🧮 Características del juego
+🧮 Características del juego.
 Sistema de turnos automático.
 Puntuación acumulativa por ronda.
 Transferencia dinámica de dados entre jugadores.
 Finalización por puntos o victoria automática.
 
 Menú interactivo:
-JUGAR
-ESTADÍSTICAS
-CRÉDITOS
-SALIR
+JUGAR.
+ESTADÍSTICAS.
+CRÉDITOS.
+SALIR.
 
 🛠️ Tecnologías utilizadas
-Lenguaje: C++
-Interfaz: Consola
+Lenguaje: C++.
+Interfaz: Consola.
 Uso de funciones y vectores.
 Sin estructuras ni clases para facilitar la comprensión y defensa del código.
