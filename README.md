@@ -1,4 +1,3 @@
-"# Enfrendados" 
 🎲 Enfrendados - Juego de dados en consola
 Enfrendados es un juego de consola para dos jugadores que combina azar y estrategia matemática. Fue desarrollado en C++ como Trabajo Práctico Integrador para la materia Programación I (Técnico Universitario en Programación - Año 2025).
 
